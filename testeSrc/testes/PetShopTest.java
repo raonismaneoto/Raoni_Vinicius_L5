@@ -5,6 +5,8 @@
 package testes;
 
 import static org.junit.Assert.*;
+import hotel.Animal;
+import hotel.Estadia;
 
 import org.junit.Before;
 import org.junit.Test;
